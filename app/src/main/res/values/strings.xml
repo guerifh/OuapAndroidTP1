@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ouap_Android_TP1</string>
+    <string name="ESIEE">Hello ESIEE </string>
+    <string name="Button1">Try me !</string>
+</resources>
